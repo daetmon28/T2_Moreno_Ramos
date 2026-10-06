@@ -1,0 +1,1 @@
+Se realizaron cambios en el proyecto para la evaluación T2 y se verificó el manejo de Git.

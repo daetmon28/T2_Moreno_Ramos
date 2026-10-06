@@ -10,3 +10,6 @@ Repositorio correspondiente a la evaluación T2. Contiene el proyecto Java/Maven
 
 ## Evidencia T2
 Evaluación T2 de Git y GitHub: preparación del repositorio, control de versiones y trazabilidad mediante commits.
+
+## Control de cambios
+Se realizaron cambios en el proyecto para comprobar el manejo de archivos entre el Working Directory y el Staging Area.
