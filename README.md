@@ -13,3 +13,6 @@ Evaluación T2 de Git y GitHub: preparación del repositorio, control de version
 
 ## Control de cambios
 Se realizaron cambios en el proyecto para comprobar el manejo de archivos entre el Working Directory y el Staging Area.
+
+## Gestión de ramas
+Se utilizó la rama feature-moreno para desarrollar una nueva funcionalidad de forma independiente. Se agregó la clase ControlVersion_Moreno.java.
